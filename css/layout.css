@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+.wf-g-wrap{ position: relative; }
+.wf-m-item{width: 25%; padding: 10px; float: left;}
+.wf-m-item .wf-m-picbox{font-size: 0;}
+.clearfix:after{content: '';display: block; width: 0;height: 0; clear: both; overflow: hidden;}
