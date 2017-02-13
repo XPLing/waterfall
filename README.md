@@ -1,5 +1,4 @@
-# waterfall
-##瀑布流
+# waterfall*瀑布流*
 1.简单的瀑布流格局，基于jQuery
 2.参数：
 *1.num：显示个数
