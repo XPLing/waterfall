@@ -4,3 +4,4 @@
 * num：显示个数
 * refreshNum：滚动条到达底部刷新加载的个数
 * scrollRefresh：是否开启刷新
+//2017-02-25
